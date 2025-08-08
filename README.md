@@ -3,8 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8fa3,100:ffb347&height=250&section=header&text=IntelliLearn%20%7C%20AI-Powered%20Career%20Navigator&fontSize=40&fontAlignY=40&fontColor=ffffff" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=💡+Empowering+Smart+Learning+Paths;🚀+AI+Driven+Career+Guidance;🤖+ChatGPT+%2B+GitHub+Copilot+Enhanced" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=💡+Empowering+Smart+Learning+Paths;🚀+AI+Driven+Career+Guidance;🤖+ChatGPT+%2B+GitHub+Copilot+Enhanced" alt="Typing SVG" />
 </p>
+
 
 ---
 
