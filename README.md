@@ -30,22 +30,22 @@ Crafted with ❤️ using **Lovable AI**, **ChatGPT**, **GitHub Copilot**, and o
 ## ✨ Features
 
 - 🎯 **Career Roadmap Generator**  
-  Personalized learning paths powered by AI for your dream role
+  Personalized learning paths powered by AI for your dream role.
 
 - 📚 **Smart Course Recommendations**  
-  Curated resources and real-time suggestions from trusted platforms
+  Curated resources and real-time suggestions from trusted platforms.
 
 - 💬 **ChatGPT-Integrated Mentor**  
-  Ask doubts, generate queries, and plan your learning path via AI
+  Ask doubts, generate queries, and plan your learning path via AI.
 
 - ⚙️ **Copilot-Enhanced Code Practice**  
-  Real-time AI suggestions to improve and debug your code
+  Real-time AI suggestions to improve and debug your code.
 
 - 📊 **Visual Progress Tracker**  
-  Keep track of completed goals, skills gained, and what's next
+  Keep track of completed goals, skills gained, and what's next.
 
 - 🧑‍🤝‍🧑 **Community Forum (Upcoming)**  
-  Collaborate, discuss, and grow with fellow learners
+  Collaborate, discuss, and grow with fellow learners.
 
 ---
 
